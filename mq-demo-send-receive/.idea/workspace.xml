@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee1e1fba-65dc-4475-9108-0e7a4d0337f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wqre0GEtUoHLWrusJTco1EHomP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mq-demo-springboot-producer/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.galaxy" />
+      <recent name="" />
+      <recent name="com.galaxy.mqdemospringbootproducer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.galaxy.rabbitmq" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../mq-demo-springboot-producer/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MqDemoSpringbootProxyApplication">
+    <configuration name="EmitLogTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.rabbitmq.EmitLogTopic" />
+      <module name="mq-demo-topic-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.rabbitmq.Producer" />
+      <module name="mq-demo-publisher-confirm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.rabbitmq.ProducerMulti" />
+      <module name="mq-demo-publisher-confirm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.rabbitmq.SpringAnnotationDemo" />
+      <module name="mq-demo-spring-anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqDemoSpringbootConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mq-demo-springboot-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.galaxy.mqdemospringbootconsumer.MqDemoSpringbootConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqDemoSpringbootProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mq-demo-springboot-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.galaxy.mqdemospringbootproducer.MqDemoSpringbootProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqDemoSpringbootProxyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mq-demo-springboot-proxy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.galaxy.mqdemospringbootproxy.MqDemoSpringbootProxyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqDemoSpringbootTtlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mq-demo-springboot-ttl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.galaxy.mqdemospringbootttl.MqDemoSpringbootTtlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootTTLApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mq-demo-springboot-ttl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.galaxy.config.SpringBootTTLApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EmitLogTopic" />
+      <item itemvalue="Application.SpringAnnotationDemo" />
+      <item itemvalue="Application.Producer" />
+      <item itemvalue="Application.ProducerMulti" />
+      <item itemvalue="Spring Boot.MqDemoSpringbootProducerApplication" />
+      <item itemvalue="Spring Boot.MqDemoSpringbootConsumerApplication" />
+      <item itemvalue="Spring Boot.MqDemoSpringbootTtlApplication" />
+      <item itemvalue="Spring Boot.MqDemoSpringbootProxyApplication" />
+      <item itemvalue="Spring Boot.SpringBootTTLApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootTTLApplication" />
+        <item itemvalue="Application.ProducerMulti" />
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Application.SpringAnnotationDemo" />
+        <item itemvalue="Application.EmitLogTopic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1e1fba-65dc-4475-9108-0e7a4d0337f2" name="Default Changelist" comment="" />
+      <created>1629197050627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629197050627</updated>
+      <workItem from="1629197054567" duration="3281000" />
+      <workItem from="1629251724084" duration="5372000" />
+      <workItem from="1629337725693" duration="9354000" />
+      <workItem from="1629531383060" duration="5803000" />
+      <workItem from="1629959042726" duration="6260000" />
+      <workItem from="1630462258642" duration="7564000" />
+      <workItem from="1630563312798" duration="7088000" />
+      <workItem from="1630919538660" duration="20000" />
+      <workItem from="1631370958232" duration="6000" />
+      <workItem from="1631768901178" duration="134000" />
+      <workItem from="1631769164951" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="80" y="0" key="#Project_Structure" timestamp="1629340993370">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="80" y="0" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1629340993370" />
+    <state x="180" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629339774697">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="180" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1629339774697" />
+    <state x="0" y="367" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1630567821583">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="367" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1630567821583" />
+    <state x="217" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1630567813169">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="217" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1630567813169" />
+    <state x="504" y="335" key="Github.CreateGistDialog" timestamp="1629286760025">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="504" y="335" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1629286760025" />
+    <state width="1388" height="163" key="GridCell.Tab.0.bottom" timestamp="1631770041576">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1631770041576" />
+    <state width="1388" height="276" key="GridCell.Tab.0.bottom/0.25.1440.763@0.25.1440.763" timestamp="1629201043485" />
+    <state width="1388" height="156" key="GridCell.Tab.0.bottom/0.25.1440.769@0.25.1440.769" timestamp="1630463221664" />
+    <state width="1388" height="127" key="GridCell.Tab.0.bottom/0.25.1440.774@0.25.1440.774" timestamp="1630571274243" />
+    <state width="1388" height="163" key="GridCell.Tab.0.center" timestamp="1631770041575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1631770041575" />
+    <state width="1388" height="276" key="GridCell.Tab.0.center/0.25.1440.763@0.25.1440.763" timestamp="1629201043485" />
+    <state width="1388" height="156" key="GridCell.Tab.0.center/0.25.1440.769@0.25.1440.769" timestamp="1630463221663" />
+    <state width="1388" height="127" key="GridCell.Tab.0.center/0.25.1440.774@0.25.1440.774" timestamp="1630571274241" />
+    <state width="1388" height="163" key="GridCell.Tab.0.left" timestamp="1631770041573">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1631770041573" />
+    <state width="1388" height="276" key="GridCell.Tab.0.left/0.25.1440.763@0.25.1440.763" timestamp="1629201043484" />
+    <state width="1388" height="156" key="GridCell.Tab.0.left/0.25.1440.769@0.25.1440.769" timestamp="1630463221663" />
+    <state width="1388" height="127" key="GridCell.Tab.0.left/0.25.1440.774@0.25.1440.774" timestamp="1630571274240" />
+    <state width="1388" height="163" key="GridCell.Tab.0.right" timestamp="1631770041575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1631770041575" />
+    <state width="1388" height="276" key="GridCell.Tab.0.right/0.25.1440.763@0.25.1440.763" timestamp="1629201043485" />
+    <state width="1388" height="156" key="GridCell.Tab.0.right/0.25.1440.769@0.25.1440.769" timestamp="1630463221664" />
+    <state width="1388" height="127" key="GridCell.Tab.0.right/0.25.1440.774@0.25.1440.774" timestamp="1630571274243" />
+    <state width="1388" height="163" key="GridCell.Tab.1.bottom" timestamp="1631770041579">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1631770041579" />
+    <state width="1388" height="156" key="GridCell.Tab.1.bottom/0.25.1440.769@0.25.1440.769" timestamp="1630463221667" />
+    <state width="1388" height="127" key="GridCell.Tab.1.bottom/0.25.1440.774@0.25.1440.774" timestamp="1630571274246" />
+    <state width="1388" height="163" key="GridCell.Tab.1.center" timestamp="1631770041578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1631770041578" />
+    <state width="1388" height="156" key="GridCell.Tab.1.center/0.25.1440.769@0.25.1440.769" timestamp="1630463221665" />
+    <state width="1388" height="127" key="GridCell.Tab.1.center/0.25.1440.774@0.25.1440.774" timestamp="1630571274245" />
+    <state width="1388" height="163" key="GridCell.Tab.1.left" timestamp="1631770041577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1631770041577" />
+    <state width="1388" height="156" key="GridCell.Tab.1.left/0.25.1440.769@0.25.1440.769" timestamp="1630463221665" />
+    <state width="1388" height="127" key="GridCell.Tab.1.left/0.25.1440.774@0.25.1440.774" timestamp="1630571274244" />
+    <state width="1388" height="163" key="GridCell.Tab.1.right" timestamp="1631770041578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1631770041578" />
+    <state width="1388" height="156" key="GridCell.Tab.1.right/0.25.1440.769@0.25.1440.769" timestamp="1630463221666" />
+    <state width="1388" height="127" key="GridCell.Tab.1.right/0.25.1440.774@0.25.1440.774" timestamp="1630571274245" />
+    <state x="289" y="91" key="NewModule_or_Project.wizard" timestamp="1630572931556">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="289" y="91" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1630572931556" />
+    <state x="93" y="0" width="1216" height="900" key="SettingsEditor" timestamp="1630480976089">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="93" y="0" width="1216" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1630480976089" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1629963880415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1629963880415" />
+    <state x="0" y="86" width="1440" height="764" key="new project wizard" timestamp="1631769344471">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="86" width="1440" height="764" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1631769344471" />
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1630481194274">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1630481194274" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mq_demo_send_receive$MqDemoSpringbootProducerApplication.ic" NAME="MqDemoSpringbootProducerApplication Coverage Results" MODIFIED="1630462460411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
